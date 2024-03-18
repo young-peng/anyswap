@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 0.63.1 (2024-03-18)
+
+**Note:** Version bump only for package @anyswap/uikit
+
+
+
+
+
 # [0.63.0](https://github.com/pancakeswap/pancake-toolkit/tree/master/packages/pancake-uikit/compare/@pancakeswap/uikit@0.62.0...@pancakeswap/uikit@0.63.0) (2022-01-16)
 
 
