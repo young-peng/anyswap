@@ -1,20 +1,20 @@
 {
-  "name": "pancake-toolkit",
+  "name": "anyswap-toolkit",
   "version": "1.0.0",
-  "description": "Pancake frontend packages",
+  "description": "anyswap frontend packages",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pancakeswap/pancake-toolkit.git"
+    "url": "git+https://github.com/young-peng/anyswap.git"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/pancakeswap/pancake-toolkit/issues"
+    "url": "https://github.com/young-peng/anyswap/issues"
   },
-  "homepage": "https://github.com/pancakeswap/pancake-toolkit#readme",
+  "homepage": "hhttps://github.com/young-peng/anyswap#readme",
   "scripts": {
     "build": "lerna run build",
     "test": "lerna run test",
