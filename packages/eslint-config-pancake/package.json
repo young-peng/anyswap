@@ -6,7 +6,7 @@
   "files": [
     "lib"
   ],
-  "repository": "https://github.com/young-peng/anyswap/tree/master/packages/eslint-config-pancake",
+  "repository": "https://github.com/young-peng/anyswap/tree/main/packages/eslint-config-pancake",
   "license": "MIT",
   "author": "RabbitDoge",
   "private": false,
@@ -26,5 +26,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "78b45e91898821d07403bc47967e34bcfa258d15"
 }

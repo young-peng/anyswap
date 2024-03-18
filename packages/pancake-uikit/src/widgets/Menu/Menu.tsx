@@ -180,7 +180,8 @@ const Menu: React.FC<NavProps> = ({
               setLang={setLang}
               currentLang={currentLang}
               // buyCakeLabel={buyCakeLabel}
-              mb={[`${MOBILE_MENU_HEIGHT}px`, null, "0px"]}           />
+              mb={[`${MOBILE_MENU_HEIGHT}px`, null, "0px"]}
+            />
           </Inner>
         </BodyWrapper>
         {isMobile && <BottomNav items={links} activeItem={activeItem} activeSubItem={activeSubItem} />}

@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/young-peng/anyswap/tree/master/packages/pancake-uikit",
+  "repository": "https://github.com/young-peng/anyswap/tree/main/packages/pancake-uikit",
   "license": "MIT",
   "scripts": {
     "start": "yarn storybook",
@@ -52,5 +52,6 @@
   },
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "gitHead": "78b45e91898821d07403bc47967e34bcfa258d15"
 }
